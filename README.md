@@ -1,4 +1,4 @@
-Elixir REST API PROJECT
+**Elixir REST API PROJECT**
 1. Producing resources for Elixir in JSON
 2. Bcrypt and Guardian authentication
 3. New account endpoint for signing up and logging in
